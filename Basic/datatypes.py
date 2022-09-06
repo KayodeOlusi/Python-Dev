@@ -5,6 +5,7 @@ owners_age = "50"
 
 # using concatenation (can only concatenate string to string)
 print("The owner's name is " + owners_name)
+
 print("He is " + owners_age + " years old")
 
 
