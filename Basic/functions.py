@@ -19,7 +19,7 @@ print(abs(my_num)) # abs() returns the absolute value of a number
 print(pow(3, 2)) # pow() return the second power of 3
 print(max(4, 6)) # max() returns the maximum value of two numbers
 print(min(4, 6))  # min() returns the minimum value of two numbers
-print(round(3.6)) # round() rounds the number upor down
+print(round(3.6)) # round() rounds the number up or down
 print(floor(3.7)) # floor() rounds a number down no matter the decimal value
 print(ceil(3.7)) # ceil() rounds a number up no matter the decimal value
 print(int(5)) # int() converts a number to a whole integer

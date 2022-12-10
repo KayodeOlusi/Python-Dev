@@ -25,6 +25,6 @@ def run_test(questions):
 
         if answer == question.answer:
             score += 1
-    print("Score is" + str(score))
+    return "Score is " + str(score)
 
 print(run_test(questions))
